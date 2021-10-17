@@ -1,0 +1,2 @@
+ini adalah contoh membuat branch 
+Membuat laporan mengenai github: branch, merge, fork
